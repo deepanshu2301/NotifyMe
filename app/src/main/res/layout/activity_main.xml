@@ -58,5 +58,13 @@
         android:background="@drawable/layout_bg"
         android:text="SET notification"
         android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:layout_marginTop="20sp"
+        android:id="@+id/btndel"
+        android:background="@drawable/layout_bg"
+        android:text="Clear notification"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
